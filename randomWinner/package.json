@@ -1,0 +1,15 @@
+{
+  "name": "hardhat-project",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.8"
+  },
+  "dependencies": {
+    "@chainlink/contracts": "^1.2.0",
+    "@openzeppelin/contracts": "^5.0.2",
+    "chainlink": "github:smartcontractkit/chainlink",
+    "dotenv": "^16.4.5",
+    "ethers": "^6.13.2",
+    "hardhat-ethers": "^1.0.1"
+  }
+}
